@@ -1,0 +1,29 @@
+2015-11-16 21:47:45.000 cliente 127.0.0.1 busqueda mauro
+2015-11-16 21:48:01.000 cliente 127.0.0.1 busqueda mauro2
+2015-11-16 21:48:11.000 cliente 127.0.0.1 busqueda mauro3
+2015-11-16 21:48:35.000 cliente 127.0.0.1 insercion 12
+2015-11-16 21:48:44.000 cliente 127.0.0.1 lectura
+2015-11-16 21:49:05.000 cliente 127.0.0.1 borrado 12
+2015-11-16 21:51:59.000 cliente 127.0.0.1 lectura
+2015-11-16 21:52:01.000 cliente 127.0.0.1 lectura
+2015-11-16 21:52:16.000 cliente 127.0.0.1 insercion 12
+2015-11-16 21:52:20.000 cliente 127.0.0.1 lectura
+2015-11-16 21:52:26.000 cliente 127.0.0.1 busqueda mauricio
+2015-11-16 21:52:33.000 cliente 127.0.0.1 insercion 13
+2015-11-16 21:52:41.000 cliente 127.0.0.1 borrado 13
+2015-11-16 21:53:06.000 cliente 127.0.0.1 lectura
+2015-11-16 21:53:14.000 cliente 127.0.0.1 busqueda xiomara
+2015-11-17 00:35:26.000 cliente 127.0.0.1 lectura
+2015-11-17 00:35:41.000 cliente 127.0.0.1 busqueda maurorondon
+2015-11-17 00:36:39.000 cliente 127.0.0.1 busqueda maurorondon2
+2015-11-17 00:37:08.000 cliente 127.0.0.1 busqueda maurorondonpipe
+2015-11-17 00:37:20.000 cliente 127.0.0.1 busqueda maurorondonpipe2
+2015-11-17 00:37:47.000 cliente 127.0.0.1 busqueda maurorondonsemaforo2
+2015-11-17 00:37:54.000 cliente 127.0.0.1 busqueda maurorondonsemaforo3
+2015-11-17 00:38:20.000 cliente 127.0.0.1 busqueda maurorondonmutex2
+2015-11-17 00:38:28.000 cliente 127.0.0.1 busqueda maurorondonmutex3
+2015-11-17 21:40:02.000 cliente 127.0.0.1 lectura
+2015-11-17 21:40:32.000 cliente 127.0.0.1 insercion 13
+2015-11-17 21:40:40.000 cliente 127.0.0.1 borrado 13
+2015-11-17 21:40:45.000 cliente 127.0.0.1 lectura
+2015-11-17 21:40:51.000 cliente 127.0.0.1 busqueda filipo
